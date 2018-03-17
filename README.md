@@ -3,4 +3,4 @@ test-app
 
 it's an app.
 
-for testing
+for testing.
